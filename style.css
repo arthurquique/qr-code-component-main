@@ -1,0 +1,44 @@
+.attribution { font-size: 11px; text-align: center; padding-top: 20px;}
+    
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow:0px 5px 10px #979797;
+}
+
+#qrcode {
+    margin-top: 16px;
+    width: 288px;
+    height: 288px;
+    border-radius: 20px;
+    box-shadow:0px 5px 10px #979797;
+}
+.card-text {
+    width: 280px;
+    margin: auto;
+}
+.card-maintext {
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.card-subtext {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
